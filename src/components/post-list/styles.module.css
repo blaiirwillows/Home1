@@ -1,0 +1,16 @@
+.posts{
+    display: flex;
+    width: 90%;
+    margin: 20px auto;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.posts .post{
+    border-radius: 20px;
+    border: 1px solid red;
+    text-align: center;
+    padding: 20px;
+    width: 22%;
+    margin-bottom: 20px;
+}
